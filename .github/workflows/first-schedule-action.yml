@@ -1,3 +1,4 @@
+name: First sechedule action
 on:
   schedule:
   - cron: "*/5 * * * 1-5"
